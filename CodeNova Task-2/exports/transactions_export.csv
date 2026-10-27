@@ -1,0 +1,17 @@
+id,timestamp,type,category,amount,remarks
+TXN-001,2026-01-15T09:00,INCOME,Salary,20000.00,Monthly salary payment
+TXN-002,2026-01-27T18:30,EXPENSE,Food,2500.00,"Groceries and dinner, ""family meal"""
+TXN-003,2026-02-05T11:15,INCOME,Freelance,6500.00,Web design project
+TXN-004,2026-02-11T08:00,EXPENSE,Rent,3200.00,Apartment rent
+TXN-005,2026-03-15T10:45,EXPENSE,Education,1800.00,Java course and training materials
+TXN-006,2026-10-08T14:20,EXPENSE,Travel,450.00,Train ticket and airport cab
+TXN-007,2026-10-12T16:45,INCOME,Business,12000.00,Online product sales
+TXN-008,2026-10-17T12:00,EXPENSE,Shopping,1200.00,"Books and office supplies, ""new laptop stand"""
+TXN-009,2026-10-21T09:30,EXPENSE,Healthcare,800.00,Medicine and checkup
+TXN-010,2026-10-25T19:10,EXPENSE,Other,350.00,Household utility top-up
+TXN-26496150,2026-12-12T12:23,INCOME,salary,12000,
+TXN-9CAEA222,2026-01-30T10:00,INCOME,job,50000,
+TXN-502A1160,2026-02-28T10:00,INCOME,salary,50000,
+TXN-CCAF4EC7,2026-03-30T10:00,INCOME,salary,50000,
+TXN-7BBEC019,2026-04-30T10:00,INCOME,salary,50000,
+TXN-2F1BCB47,2026-05-30T10:00,INCOME,salary,50000,

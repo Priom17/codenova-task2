@@ -1,0 +1,9 @@
+Monthly Financial Summary
+Year: 2026
+Month: 4
+Total income: 50000.00
+Total expenses: 0.00
+Net cash flow: 50000.00
+
+Category-wise spending
+No expense categories recorded for this month.

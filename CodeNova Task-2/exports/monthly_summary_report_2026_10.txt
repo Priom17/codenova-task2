@@ -1,0 +1,12 @@
+Monthly Financial Summary
+Year: 2026
+Month: 10
+Total income: 12000.00
+Total expenses: 2800.00
+Net cash flow: 9200.00
+
+Category-wise spending
+- Travel: 450.00 (16.07%)
+- Shopping: 1200.00 (42.86%)
+- Healthcare: 800.00 (28.57%)
+- Other: 350.00 (12.50%)

@@ -1,0 +1,7 @@
+selected_month,selected_year,total_income,total_expenses,net_cash_flow
+10,2026,12000.00,2800.00,9200.00
+category,expense_total,percentage
+Travel,450.00,16.07
+Shopping,1200.00,42.86
+Healthcare,800.00,28.57
+Other,350.00,12.50
